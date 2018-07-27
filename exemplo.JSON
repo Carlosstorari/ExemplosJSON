@@ -1,0 +1,38 @@
+[
+	{
+		"nome": "Geraldo",
+		"sexo": "masculino",
+		"CPF": "354.457.267-90",
+		"cargo": "Gerente de Vendas",	
+		"salario": "2.000",	
+		"filhos": "true",
+		"nomesFilhos": ["João", "Maria", "Josiscleito"]
+	},
+	{
+		"nome": "Vanilson",
+		"sexo": "masculino",
+		"CPF": "326.153.707-90",
+		"cargo": "Vededor",	
+		"salario": "1.500",	
+		"filhos": "false",
+		"nomesFilhos": []
+	},
+	{
+		"nome": "Marilda",
+		"sexo": "feminino",
+		"CPF": "321.123.231-90",
+		"cargo": "Suporte",	
+		"salario": "1.500",	
+		"filhos": "false",
+		"nomesFilhos": []
+	},
+	{
+		"nome": "Cotinha",
+		"CPF": "467.374.902-01",
+		"sexo": "feminino"
+		"cargo": "Caixa",	
+		"salario": "1.000",	
+		"filhos": "true",
+		"nomesFilhos": ["Joelso", "Marlinda", "Jackscleito", "Rachel"]
+	}
+]
